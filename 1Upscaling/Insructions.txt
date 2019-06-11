@@ -1,0 +1,6 @@
+1. Set the crop upscale merge to the current folder for ESRGAN
+2. Add image to img
+3. Set the model you want
+4. Crop Images
+5. RUN ESRGAN
+6. Merge Images
