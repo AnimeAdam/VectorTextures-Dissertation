@@ -4,3 +4,6 @@
 4. Crop Images
 5. RUN ESRGAN
 6. Merge Images
+
+Get more models from https://github.com/alsa64/AI-wiki/wiki/Model-Database
+https://www.reddit.com/r/GameUpscale/comments/a7msxo/getting_started/
